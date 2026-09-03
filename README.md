@@ -1,16 +1,65 @@
-# React + Vite
+# 🍗 SAHI BIRIYANI
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> A premium digital experience inspired by the rich heritage and royal taste of Kolkata's Dum Biryani.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** https://sahi-biriyani.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ About The Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**SAHI BIRIYANI** is a modern, premium food-brand website created to bring the royal essence of Kolkata's Dum Biryani into a digital experience.
 
-## Expanding the Oxlint configuration
+The goal of this project was not just to build a functional website, but to create an **immersive and visually engaging user experience** using modern frontend technologies, interactive elements, smooth animations, and a strong visual identity.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 🚀 Features
+
+- 🍗 Premium restaurant landing page
+- 👑 Royal-inspired visual identity
+- 📱 Fully responsive design
+- ✨ Interactive UI elements
+- 🎬 Smooth animations & transitions
+- 🧩 Reusable React components
+- 🎨 Modern and clean UI/UX
+- ⚡ Fast Vite-powered development
+- 🌐 Deployed on Vercel
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
+- **Tailwind CSS**
+
+### Tools & Libraries
+- **Vite**
+- **Lucide React**
+- **Git**
+- **GitHub**
+
+### Deployment
+- **Vercel**
+
+---
+
+## 📂 Project Structure
+
+```text
+SAHI-BIRIYANI/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
