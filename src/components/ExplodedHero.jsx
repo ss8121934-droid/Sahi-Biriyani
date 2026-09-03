@@ -1,4 +1,4 @@
-﻿import React, { useState, useRef, useEffect } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import { motion, useScroll, useTransform, useSpring } from "framer-motion";
 import { Sparkles, ArrowRight, Eye, Layers, Compass, Flame, Info } from "lucide-react";
 import { LAYERS_DATA } from "../data/layersData";
@@ -64,7 +64,7 @@ export default function ExplodedHero() {
     <div
       ref={containerRef}
       id="hero"
-      className="relative w-full h-[220vh] sm:h-[250vh] bg-[#0A0806] text-[#F5EFE6]"
+      className="relative w-full h-[220vh] sm:h-[250vh] bg-[#0A0806] text-[#F5EFE6] overflow-hidden"
       onMouseMove={handleMouseMove}
       onMouseLeave={handleResetMouse}
     >
